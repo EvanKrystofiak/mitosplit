@@ -1,0 +1,18 @@
+# data, annotations, model weights and outputs are never committed
+*.tif
+*.tiff
+*.png
+*.jpg
+*.zip
+*.roi
+*.csv
+*.pth
+*.yaml
+*.json
+*.log
+finetune_data/
+crops/
+mito_seg*/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
