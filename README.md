@@ -98,3 +98,7 @@ Notes from setting this up on an 8 GB Quadro with an old driver: `albumentations
 
 Built on empanada-napari and MitoNet by Conrad & Narayan (Volume EM group, NCI). Models trained
 here are fine-tuned MitoNet weights and are not part of this repository.
+
+## License
+
+MIT, see [LICENSE](LICENSE).
